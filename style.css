@@ -1,0 +1,24 @@
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.pet {
+  height: 352px;
+}
+
+.detail {
+    font-size: 200;
+    line-height: 30px;
+    list-style: none;
+}
+
+.main {
+  box-shadow: 0 0.4rem 1.2rem rgba(0, 0, 0, 0.075);
+    border-radius: 19px;
+    overflow: hidden;
+    transition: all 0.4s; 
+    padding-top: 10px;
+}
